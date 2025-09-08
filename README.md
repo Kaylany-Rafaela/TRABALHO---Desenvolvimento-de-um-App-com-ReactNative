@@ -11,7 +11,7 @@ O **Controle de Estoque de Insumos** é um aplicativo mobile desenvolvido para o
 - 🔎 **Consultem o estoque atualizado em tempo real**, garantindo que todos saibam a quantidade disponível.  
 - 🕒 **Acompanhem o histórico completo de movimentações**, facilitando o controle e evitando falhas.  
 
-O aplicativo foi desenvolvido com **React Native**, garantindo compatibilidade com dispositivos **Android e iOS**. A interface foi planejada com foco em **clareza, simplicidade e usabilidade**, proporcionando uma experiência intuitiva para todos os usuários.  
+O aplicativo será desenvolvido com **React Native**, garantindo compatibilidade com dispositivos **Android e iOS**. A interface foi planejada com foco em **clareza, simplicidade e usabilidade**, proporcionando uma experiência intuitiva para todos os usuários.  
 
 ---
 

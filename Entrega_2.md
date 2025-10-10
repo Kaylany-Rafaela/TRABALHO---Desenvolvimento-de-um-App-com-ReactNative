@@ -1,43 +1,47 @@
-📱 Controle de Estoque de Insumos
+# 📱 Controle de Estoque de Insumos  
 
-CCH - Dispositivos Móveis - Parte 2
-Nomes: Kaylany Rafaela e Victor Cláudio
+**CCH - Dispositivos Móveis - Parte 2**  
+**Nomes:** Kaylany Rafaela e Victor Cláudio  
 
-📝 Descrição
+---
 
-Nesta etapa, foram implementadas todas as telas do aplicativo utilizando React Native com TypeScript.
+## 📝 Descrição  
 
-Importante:
+Nesta etapa, foram **implementadas todas as telas do aplicativo** utilizando **React Native** com **TypeScript**.
 
-Nesta fase, não foi implementada a lógica de negócio, nem persistência de dados, nem autenticação de usuários.
+**Importante:**  
+- Nesta fase, **não foi implementada a lógica de negócio**, nem **persistência de dados**, nem **autenticação de usuários**.  
+- O objetivo foi desenvolver a interface completa e funcional para apresentação das telas.  
 
-O objetivo foi desenvolver a interface completa e funcional para apresentação das telas.
+As telas criadas incluem:  
 
-As telas criadas incluem:
+- **Login** – Tela de acesso do usuário.  
+- **Cadastro de usuário** – Permite adicionar novos usuários (apenas interface).  
+- **Dashboard** – Resumo do estoque, entradas e saídas recentes.  
+- **Lista de insumos** – Exibição dos insumos cadastrados com opção de ver detalhes.  
+- **Cadastro de insumo** – Tela para adicionar novos insumos (apenas interface).  
+- **Detalhes do insumo** – Exibe informações do item e histórico (interface).  
+- **Entrada de insumos** – Formulário para registrar entradas.  
+- **Saída de insumos** – Formulário para registrar retiradas.  
 
-Login – Tela de acesso do usuário.
+O foco desta entrega foi **mostrar as telas implementadas** e permitir a **apresentação dos resultados**, seja ao vivo ou por vídeo gravado.  
 
-Cadastro de usuário – Permite adicionar novos usuários (apenas interface).
+---
 
-Dashboard – Resumo do estoque, entradas e saídas recentes.
+## 📱 Telas  
 
-Lista de insumos – Exibição dos insumos cadastrados com opção de ver detalhes.
+![Login](https://github.com/user-attachments/assets/login.png)  
+![Cadastro de Usuário](https://github.com/user-attachments/assets/cadastro-usuario.png)  
+![Dashboard](https://github.com/user-attachments/assets/dashboard.png)  
+![Lista de Insumos](https://github.com/user-attachments/assets/lista-insumos.png)  
+![Cadastro de Insumo](https://github.com/user-attachments/assets/cadastro-insumo.png)  
+![Detalhes do Insumo](https://github.com/user-attachments/assets/detalhes-insumo.png)  
+![Entrada de Insumos](https://github.com/user-attachments/assets/entrada-insumo.png)  
+![Saída de Insumos](https://github.com/user-attachments/assets/saida-insumo.png)  
 
-Cadastro de insumo – Tela para adicionar novos insumos (apenas interface).
+---
 
-Detalhes do insumo – Exibe informações do item e histórico (interface).
+## 📌 Entregáveis desta Etapa
 
-Entrada de insumos – Formulário para registrar entradas.
-
-Saída de insumos – Formulário para registrar retiradas.
-
-O foco desta entrega foi mostrar as telas implementadas e permitir a apresentação dos resultados, seja ao vivo ou por vídeo gravado.
-
-📱 Telas
-ADICIONAR 
-
-📌 Entregáveis desta Etapa
-
-Atualização do repositório GitHub com todas as telas implementadas (ou submissão via Moodle).
-
-Apresentação das telas: ao vivo em aula ou vídeo gravado.
+- Atualização do **repositório GitHub** com todas as telas implementadas (ou submissão via Moodle).  
+- **Apresentação das telas**: ao vivo em aula ou vídeo gravado.

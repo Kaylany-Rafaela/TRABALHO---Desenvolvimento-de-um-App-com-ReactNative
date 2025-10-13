@@ -65,4 +65,4 @@ O foco desta entrega foi **mostrar as telas implementadas** e permitir a **apres
 ## 📌 Entregáveis desta Etapa
 
 - Atualização do **repositório GitHub** com todas as telas implementadas.  
-- **Apresentação das telas gravadas em vídeo**: [Assista ao vídeo aqui]([https://link-para-o-video.com](https://drive.google.com/drive/folders/1OQyUElq2fKYeNBMgVCFRZgEPTYGhXofu?usp=sharing))  
+- **Apresentação das telas gravadas em vídeo**: [Assista ao vídeo aqui] https://drive.google.com/drive/folders/1OQyUElq2fKYeNBMgVCFRZgEPTYGhXofu?usp=sharing

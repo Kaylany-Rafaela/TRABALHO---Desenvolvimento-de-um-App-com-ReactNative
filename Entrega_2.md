@@ -33,17 +33,32 @@ Os **estilos personalizados** foram criados com `StyleSheet`, mantendo um design
 O foco desta entrega foi **mostrar as telas implementadas** e permitir a **apresentação dos resultados**, seja ao vivo ou por vídeo gravado.  
 
 ---
+## 📱 Telas
 
-## 📱 Telas  
+### Login
+![Login](https://github.com/user-attachments/assets/d1a83e0b-27f0-49bc-8dbe-65b3c3ec8343)
 
-![Login](https://github.com/user-attachments/assets/login.png)  
-![Cadastro de Usuário](https://github.com/user-attachments/assets/cadastro-usuario.png)  
-![Dashboard](https://github.com/user-attachments/assets/dashboard.png)  
-![Lista de Insumos](https://github.com/user-attachments/assets/lista-insumos.png)  
-![Cadastro de Insumo](https://github.com/user-attachments/assets/cadastro-insumo.png)  
-![Detalhes do Insumo](https://github.com/user-attachments/assets/detalhes-insumo.png)  
-![Entrada de Insumos](https://github.com/user-attachments/assets/entrada-insumo.png)  
-![Saída de Insumos](https://github.com/user-attachments/assets/saida-insumo.png)  
+### Cadastro de Usuário
+![Cadastro de Usuário](https://github.com/user-attachments/assets/7ccb1621-21b4-4f7a-9452-af07f771dbcf)
+
+### Dashboard
+![Dashboard](https://github.com/user-attachments/assets/94e95ae1-5cbd-41fc-b4cc-6cc15e3f1ce1)
+
+### Lista de Insumos
+![Lista de Insumos](https://github.com/user-attachments/assets/56c68b9a-fac3-45a4-9296-ae60ac4818c6)
+
+### Cadastro de Insumo
+![Cadastro de Insumo](https://github.com/user-attachments/assets/06cfe632-ab5a-4382-ba08-a3a9b69a0f1d)
+
+### Detalhes do Insumo
+![Detalhes do Insumo](https://github.com/user-attachments/assets/61ddf587-ea98-46d2-aa6b-1c91e87db35e)
+
+### Entrada de Insumos
+![Entrada de Insumos](https://github.com/user-attachments/assets/7f782dee-92d2-4542-a49a-337970f01f23)
+
+### Saída de Insumos
+![Saída de Insumos](https://github.com/user-attachments/assets/1974c108-1d4d-417d-ad39-d80c3e99b80a)
+
 
 ---
 

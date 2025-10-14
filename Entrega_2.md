@@ -51,7 +51,7 @@ O foco desta entrega foi **mostrar as telas implementadas** e permitir a **apres
 ![Cadastro de Insumo](https://github.com/user-attachments/assets/06cfe632-ab5a-4382-ba08-a3a9b69a0f1d)
 
 ### Detalhes do Insumo
-![Detalhes do Insumo](https://github.com/user-attachments/assets/61ddf587-ea98-46d2-aa6b-1c91e87db35e)
+![Detalhes do Insumo](https://github.com/user-attachments/assets/cc1a3d21-6389-4c78-9516-b9ab65bc789b)
 
 ### Entrada de Insumos
 ![Entrada de Insumos](https://github.com/user-attachments/assets/7f782dee-92d2-4542-a49a-337970f01f23)
